@@ -1,0 +1,28 @@
+# Archivos de Byte-Compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración
+.vscode/
+credenciales.ini
+pyvenv.cfg
+
+# Entornos virtuales de Python
+venv/
+*.venv
+venv.bak/
+Lib/
+
+# Directorios
+/Scripts
+
+# Archivos de prueba
+*.test.py
+
+# Otros archivos temporales
+*.tmp
+*~
+
+# Comentarios
+# Este archivo ignora archivos temporales y de configuración.
